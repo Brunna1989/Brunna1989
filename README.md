@@ -12,7 +12,4 @@ Languages and Tools:
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="48"/>
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="48"/>
   <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="48"/>
-  <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" width="48"/>
-  <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" width="48"/>
-  <img src="https://img.icons8.com/color/48/000000/swagger.png" alt="Swagger" width="48"/>
 </div>
