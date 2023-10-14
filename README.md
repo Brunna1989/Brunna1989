@@ -4,7 +4,6 @@
 ### 🎲 I’m a Backend Developer at Ilegra.
 ### 🌱 I'm currently learning more about Docker and other tools in the DevOps world.
 ### 🎓 I’m studying System's Development and Analysis at Estácio.
-### 🙋 Pronouns: She/Her
 
 Languages and Tools:
 
