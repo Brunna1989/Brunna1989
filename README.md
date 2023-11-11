@@ -11,6 +11,10 @@
 
 Here are some of my skills as a Backend Developer:
 
+### Programming Language:
+
+- **Java**
+
 ### 💽 Database Management
 - **Relational Databases:** MySQL, PostgreSQL
 - **Non-relational Databases:** MongoDB
