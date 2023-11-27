@@ -1,11 +1,13 @@
-# Hi! Welcome!  I'm Brunna Dornelles 😉
-[LinkedIn](https://www.linkedin.com/in/brunna-d-6516b7231/) 
+# Hi there! 👋 I'm Brunna Dornelles 😉
 
-### 🌱 Current Focus
+[LinkedIn](https://www.linkedin.com/in/brunna-d-6516b7231/)
+
+## 🌱 Current Focus
 - Currently learning more about Docker and exploring other tools in the DevOps ecosystem.
 
-### 🎓 Education
-- Studying System's Development and Analysis at Estácio.
+## 🎓 Education
+- In my final semester of studying System's Development and Analysis at Estácio.
+- Just started my first semester in Software Engineering, also at Estácio.
 
 ## 🚀 Skills
 
@@ -28,6 +30,5 @@ Here are some of my skills as a Backend Developer:
 - **Continuous Integration/Continuous Deployment (CI/CD):** Jenkins
 - **Infrastructure as Code (IaC):** Packer, Ansible
 - **Artifact Repository:** JFrog
-
 
 
