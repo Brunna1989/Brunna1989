@@ -7,7 +7,7 @@
 
 ## 🎓 Education
 - In my final semester of studying System's Development and Analysis at Estácio.
-- Just started my first semester in Software Engineering, also at Estácio.
+- In the first semester of Software Engineering, also at Estácio University.
 
 ## 🚀 Skills
 
