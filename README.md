@@ -6,8 +6,10 @@
 - Currently learning more about Docker and exploring other tools in the DevOps ecosystem.
 
 ## 🎓 Education
-- In my final semester of studying System's Development and Analysis at Estácio.
-- In the first semester of Software Engineering, also at Estácio University.
+- I have a degree in Systems Analysis and Development.
+- Bachelor's Degree in Software Engineering (2nd semester).
+- And I am doing a postgraduate degree in Strategic IT Management.
+ (All courses by Estácio University).
 
 ## 🚀 Skills
 
