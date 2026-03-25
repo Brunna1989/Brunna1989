@@ -3,14 +3,11 @@
 [LinkedIn](https://www.linkedin.com/in/brunna-d-6516b7231/)
 
 ## 🌱 Current Focus
-- Currently learning more about Docker and exploring other tools in the DevOps ecosystem.
+- Currently, I am actively advancing my expertise in Java and Spring Boot, while deepening my knowledge of modern development tools and exploring the effective integration of Artificial Intelligence into software engineering practices.
 
 ## 🎓 Education
-- I have a degree in Systems Analysis and Development.
-- Bachelor's Degree in Software Engineering (2nd semester).
-- And I am doing a postgraduate degree in Strategic IT Management.
- (All courses by Estácio University).
-
+- Graduated in Systems Analysis and Development since February 2022.
+  
 ## 🚀 Skills
 
 Here are some of my skills as a Backend Developer:
@@ -19,18 +16,31 @@ Here are some of my skills as a Backend Developer:
 
 - **Java**
 
-### 💽 Database Management
+### 💽 Hard's Skill's:
 - **Relational Databases:** MySQL, PostgreSQL
 - **Non-relational Databases:** MongoDB
 - **In-memory Database:** H2
+- **Swagger**
+- **Mockito e Junit5**
+- **Apache Camel**
+- **Design Patterns**
+- **SOLID**
+- **MVC**
+- **API REST**
+- **POO**
+- **Docker**
+- **JPA**
+- **Security**
+- **RabitMQ**
+- **GCP**
+- **AWS**
 
-### 📚 Other Technical Expertise
-- **API Documentation:** Proficient in Swagger
-- **Containerization:** Experience in Docker
-- **Messaging Systems:** Familiar with RabbitMQ
-- **Testing:** Proficient in JUnit5 and Mockito for unit testing
-- **Continuous Integration/Continuous Deployment (CI/CD):** Jenkins
-- **Infrastructure as Code (IaC):** Packer, Ansible
-- **Artifact Repository:** JFrog
+### 📚 Other Expertises (Soft's Skill's):
+- **Agile Methodologies (Scrum, Kanban)**
+- **Communication**
+- **Proactivity**
+- **Teamwork**
+- **Organization**
+- **Commitment**
 
 
